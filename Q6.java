@@ -10,5 +10,6 @@ public class Q6
 		
 		System.out.println("Salario = R$"+salario);
 		System.out.println("Imposto = R$"+imposto);
+		System.out.println("Salario Final =R$"+salariofinal);
 	}
 }
